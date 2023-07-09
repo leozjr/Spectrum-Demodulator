@@ -31,4 +31,13 @@
 
 后续功能仍在开发中……
 
+![](https://github.com/leozjr/Spectrum-Demodulator/blob/main/Docs/解调结果.png)
+
+![](https://github.com/leozjr/Spectrum-Demodulator/blob/main/Docs/灰度界面.png)
+
+![](https://github.com/leozjr/Spectrum-Demodulator/blob/main/Docs/颜色选择.png)
+
+![](https://github.com/leozjr/Spectrum-Demodulator/blob/main/Docs/最大值.png)
+
+![](https://github.com/leozjr/Spectrum-Demodulator/blob/main/Docs/相机驱动.png)
 
